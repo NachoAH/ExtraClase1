@@ -1,0 +1,19 @@
+Qué es un Git?
+Git es un sistema de control de versiones distribuido, lo que significa que un clon local del proyecto
+es un repositorio de control de versiones completo. Estos repositorios locales plenamente funcionales
+permiten trabajar sin conexión o de forma remota con facilidad. 
+
+Conceptos básicos:
+
+Clone: Se refiere a la acción de hacer una copia exacta de un objeto, frecuentemente bajo el paradigma
+de programación basada en instancias, o programación orientada a objetos.
+
+Push: Es una programación no referenciada que puede generarse mediante un sistema de planificación o crearse manualmente.
+La función push inserta un nuevo elemento en el tope de la pila.
+
+Commit: Confirma el conjunto de operaciones convirtiendo los datos en definitivos. Marca el éxito de la operación de bloque
+y cierra la transacción.
+
+Pull: Técnica para reducir el desperdicio de cualquier proceso de producción. La aplicación de un sistema pull te permite
+comenzar un nuevo trabajo solo cuando hay una demanda de los clientes. Esto te brinda la oportunidad de reducir y optimizar
+los costos de almacenamiento.
