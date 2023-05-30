@@ -5,15 +5,15 @@ permiten trabajar sin conexión o de forma remota con facilidad.
 
 Conceptos básicos:
 
-Clone: Se refiere a la acción de hacer una copia exacta de un objeto, frecuentemente bajo el paradigma
-de programación basada en instancias, o programación orientada a objetos.
+Clone: Acción de crear una copia local completa de un repositorio remoto en tu máquina. Esto te permite trabajar
+en el código de manera independiente y sincronizar tus cambios con el repositorio remoto a través de comandos git.
 
-Push: Es una programación no referenciada que puede generarse mediante un sistema de planificación o crearse manualmente.
-La función push inserta un nuevo elemento en el tope de la pila.
+Push: Acción de enviar tus commits locales al repositorio remoto, lo que te permite compartir y sincronizar
+tus cambios con otros colaboradores del proyecto.
 
-Commit: Confirma el conjunto de operaciones convirtiendo los datos en definitivos. Marca el éxito de la operación de bloque
-y cierra la transacción.
+Commit: Acción de guardar los cambios realizados en un repositorio, lo que permite rastrear y controlar la
+historia de los cambios en el código de un proyecto.
 
-Pull: Técnica para reducir el desperdicio de cualquier proceso de producción. La aplicación de un sistema pull te permite
-comenzar un nuevo trabajo solo cuando hay una demanda de los clientes. Esto te brinda la oportunidad de reducir y optimizar
-los costos de almacenamiento.
+Pull: Acción de obtener y fusionar los cambios más recientes realizados en un repositorio remoto en tu
+repositorio local. Esto te permite mantener tu copia local actualizada con las últimas modificaciones y
+colaborar de manera efectiva con otros desarrolladores en el proyecto.
